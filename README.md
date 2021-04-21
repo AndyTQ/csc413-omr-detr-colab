@@ -1,6 +1,6 @@
 # csc413-omr-detr-colab
 
-This repository contains the colab / ipynb notebooks that we used for the project **Exploration of Music Object Detection using Detection Transformer (DETR): Baseline Comparisons and Open Issues**:
+This repository contains the links to the colab notebooks that we used for the project **Exploration of Music Object Detection using Detection Transformer (DETR): Baseline Comparisons and Open Issues**:
 
 | Architecture  | Model  | Colab  |
 |---|---|---|
