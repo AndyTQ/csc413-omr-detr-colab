@@ -2,7 +2,7 @@
 
 This repository contains the links to the colab notebooks that we used for the project **Exploration of Music Object Detection using Detection Transformer (DETR): Baseline Comparisons and Open Issues**:
 
-| Architecture  | Model  | Colab  |
+| Architecture  | Dataset  | Colab  |
 |---|---|---|
 | DETR  | DeepScores  |  https://colab.research.google.com/drive/1tHbHzAV8aFe8hNT5DKM3irE5wTedaZY8 |
 | DETR  | MUSCIMA++ v2 (Cropped) | https://colab.research.google.com/drive/1Kw4e3vPtUvdquCAabwzFhun58vfIoSc0#scrollTo=D4tPZBbfZweT  |
